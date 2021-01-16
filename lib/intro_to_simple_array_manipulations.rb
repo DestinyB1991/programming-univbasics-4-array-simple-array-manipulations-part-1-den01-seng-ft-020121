@@ -22,3 +22,8 @@ dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
 small_dogs = ["Chihuahua", "Shiba Inu"]
 array.pop(2)
 end
+
+def using_shift (array)
+my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+array.shift
+end
