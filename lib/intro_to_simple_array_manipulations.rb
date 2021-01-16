@@ -19,4 +19,5 @@ end
 
 def pop_with_args (array)
 dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
+small_dogs.pop (2)
 end
